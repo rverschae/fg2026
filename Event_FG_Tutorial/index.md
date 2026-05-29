@@ -3,29 +3,32 @@ title: "Tutorial: Face and gesture recognition using event-based cameras"
 author_profile: false
 ---
 
+# Tutorial: Face and gesture recognition using event-based cameras
+
 # [FG2026](https://fg2026.ieee-biometrics.org/) Tutorial, Kyoto, Japan
 
 ## Tutorial description
-Event-based cameras are a recently introduced device that asynchronously senses light intensity changes of each pixel and that can be applied in multiple recognition problems of interest to the community, in particular due to the fact that event-based cameras continuously encode sparse appearance & motion information at a very high speed, with low latency and with a high dynamic range. In the last few years, there has been a great interest in this device, including its use in problems related to the analysis of faces and gestures. Event-based cameras are particularly interesting in the analysis of faces and gestures for their high temporal resolution and high dynamic range, thus eliminating motion blur and allowing handling challenging illumination. More over, they allow to analyzing subtle changes in faces in a continuous stream of data. 
+Event-based cameras are a recently introduced technology that asynchronously senses light intensity changes at the individual pixel level. They are increasingly being applied to various recognition problems of interest to the computer vision community, primarily because they continuously encode sparse appearance and motion information at very high speeds, with low latency, and across a high dynamic range. Over the last few years, interest in these devices has surged, particularly regarding their application to face and gesture analysis. Event-based cameras are uniquely suited for these tasks due to their high temporal resolution and high dynamic range, which eliminate motion blur and accommodate challenging illumination conditions. Moreover, they enable the analysis of subtle facial changes within a continuous data stream.
+In this context, this tutorial provides an introductory yet comprehensive overview of event-based cameras and discusses their application to face and gesture recognition. The tutorial is organized into three parts. First, we provide an overview of event cameras, existing sensors, and the problems to which they have been applied, ranging from low-level vision (e.g., optical flow, tracking, and feature detection) to high-level vision (e.g., reconstruction, segmentation, and recognition). Second, we discuss existing techniques for processing event streams, including learning-based approaches. Finally, we present an overview of recent work on face and gesture recognition using event-based cameras, including a discussion of available datasets, current methodologies, and open research directions.
+This tutorial is intended both for researchers with no prior experience with event-based cameras and for those who have worked with them in the past but wish to review recent advances in the field.
 
-In this context, this tutorial gives an introductory and comprehensive overview of event-based cameras and discusses their use in face and gesture recognition problems. The tutorial is organized in three parts: First, we give an overview of event cameras, existing sensors, and problems they have been applied on, from low-level vision (e.g. optic flow, tracking, feature detection) to high-level vision (e.g. reconstruction, segmentation, recognition). Second, we discuss existing techniques to process trains of events, including learning-based ones. Finally, we present an overview of recent work on face and gesture recognition using event based cameras, including a discussion of the existing datasets and methods used on these problems, as well as possible open research directions. 
-The tutorial is intended for researchers with no prior experience with event-based cameras, as well as researchers that have worked with event-based cameras in the past but who want to review recent advances in this area.
 
-## Preliminary Schedule:
-- 00:00–00:15 — Introduction and motivation
-- 00:15–00:30 — Fundamentals of event-based cameras
-- 00:30–00:45 — Application examples
+## Schedule:
+### 13:30-15:00  Opening and Basics of Event-based cameras
+- 13:30 — Opening & Introduction 
+- 13:50 — Fundamentals of event-based cameras 
+- 14:10 — Application examples 
+- 14:30 - 14:40 Break
+- 14:40 — Event data representations and visualization 
 
-- 00:45–01:00 — Event data visualization
-- 01:00–01:15 — Event-based data representations
-- 01:15–01:30 — FG Datasets and event-data simulation
-- 01:30–01:45 — Event-based data processing and classification
+### 15:00-16:10 Event-based cameras for Face and Gesture Recognition
+- 15:00 — Intro Event-based cameras for Face and Gesture 
+- 15:10 — Event-based FG datasets and data generation 
+- 15:20 — Data processing and classification 
+- 15:30-15:40 Break
+- 15:40 — Recent results on Event-based Face & Gesture recognition 
 
-- 01:45–02:00 — Break
-
-- 02:00–02:20 — Gesture recognition SOTA
-- 02:20–02:40 — Face expression recognition SOTA
-- 02:40–03:00 — Hands-on demo and Q&A
+### 16:10-16:20 Future Perspectives and Closing Remarks 
 
 ## Requirements  (e.g., facilities, Internet access, etc.) and Additional Information:
 - No special requirements.
@@ -60,7 +63,7 @@ The tutorial is intended for researchers with no prior experience with event-bas
 - Short bio: Ignacio Bugueno-Cordova obtained his Electrical Engineering degree in 2018 and his Master of Science degree in 2025, both from Universidad de Chile, Santiago, Chile. He has been a research assistant at the Robotics and Intelligent Systems Laboratory at Universidad de O’Higgins since 2020. In 2025, he was awarded an IEEE CIS Graduate Student Research Grant to conduct a research stay at the L3S Research Center, Hanover, Germany. His research interests include artificial intelligence, computer/event vision, deep learning, IoT, telecommunications, and robotics.
 
 ### Experience
-The instructors have experience on face gesture, detection and recognition problems with event-based cameras [1-5] (see list of related publications at the end of this document). They also have previous experience on face recognition, detection and analysis with standard RGB cameras. The instructors have given tutorials and talks on this topic, including a tutorial on  “Introduction to face and gesture recognition using event-based cameras” given at the 15th IEEE International Conference on Automatic Face and Gesture Recognition (2020). This new tutorial builds upon the one of 2020, updating all of its taking into account the important body of work that has been published in the last couple of years.
+The instructors possess extensive experience in face and gesture detection and recognition problems using event-based cameras [1–5] (see the list of related publications at the end of this document). They also have a strong background in facial recognition, detection, and analysis using standard RGB cameras. Furthermore, the instructors have previously delivered tutorials and talks on this topic, including a tutorial titled “Introduction to Face and Gesture Recognition Using Event-Based Cameras” at the 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020). This updated tutorial builds upon the 2020 edition, incorporating the substantial body of work that has been published over the last few years.
 
 ## The main instructors have given tutorial/talks in related computer vision topics in the following international events: 
 - IEEE RAS ICRA 2025 LA@Chile HANDS-ON: “Gentle introduction to Event-based Robot Vision” given at the satellite event of the ICRA 2025 conference sponsored by IEEE RAS.
