@@ -89,7 +89,7 @@ The instructors possess extensive experience in face and gesture detection and r
 
 ## Other Event-based Related Publications authored by the lectures
 - [7] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Játiva, David Zabala-Blanco, C Azurdia-Meza, "Design and Implementation of a Feedback-Aware MISO Event-Based Optical Camera Communication System", [IEEE Photonics Technology Letters](https://ieeexplore.ieee.org/abstract/document/11515206/)
-- [8] R Guamán-Rivera, J Delpiano, R Verschae, [Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/pii/S0925231225005715?casa_token=yeakzchWtgkAAAAA:QcohN8CfX4nDrgblp8IKAejxfmmQV4Vqo7Y41Df_RvyIGa74Wxi3XxUims2Oz4Wq8blyBOhWsw), Neurocomputing, 2026
+- [8] R Guamán-Rivera, J Delpiano, R Verschae, [Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/pii/S0925231225005715?casa_token=yeakzchWtgkAAAAA:QcohN8CfX4nDrgblp8IKAejxfmmQV4Vqo7Y41Df_RvyIGa74Wxi3XxUims2Oz4Wq8blyBOhWsw), Neurocomputing, 2025
 - [9] I Bugueno-Cordova, L Gava, R Verschae, N Navarro-Guerrero, [Multi-Modal Indoor Dataset for Event-based Monocular Depth Estimation by Mobile Robots](https://openreview.net/pdf?id=DH7DQCu1fC), IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots)
 - [10] I Bugueno-Cordova, M Campusano, R Guaman-Rivera, R Verschae, [A color event-based camera emulator for robot vision](https://portal.findresearcher.sdu.dk/files/269875484/robovis2024_color_event_camera_emulator_for_robot_vision.pdf), International Conference on Robotics, Computer Vision and Intelligent Systems, 2024
 
