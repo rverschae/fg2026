@@ -30,6 +30,11 @@ This tutorial is intended both for researchers with no prior experience with eve
 
 ### 16:10-16:20 Future Perspectives and Closing Remarks 
 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThK8uV0AtfjIDKUbmOEcUcGRKuyaoeqa1TU51oqBnbymL7CM_9XKVakJBnUdPXXNbano65Tg1L7_d9/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
 ## Requirements  (e.g., facilities, Internet access, etc.) and Additional Information:
 - No special requirements.
 - Primary target audience: The tutorial is intended for researchers with no prior experience with event-based cameras, as well as researchers that have worked with event-based cameras in the past but who want to review recent advances in this area.
