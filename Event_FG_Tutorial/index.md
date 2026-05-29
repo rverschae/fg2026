@@ -80,8 +80,16 @@ The instructors possess extensive experience in face and gesture detection and r
 - Tutorial presentation on "Face detection” at the IEEE LA-RAS Summer School, Santiago, Chile December 2006.
 
 ## FG + Event-based Related Publications authored by the lectures
-- [1] R Verschae, I Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, 2026, 132641. 
-- [2] N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, Pablo Negri, Maria Elena Buemi, "Event-based facial microexpression analysis using Spiking Neural Networks", ICPRS, 2025
-- [3] N Mastropasqua, D Acevedo, I Bugueno-Cordova, R Verschae, "[Exploring spatial-temporal dynamics in event-based facial microexpression analysis](https://arxiv.org/abs/2508.11988)", 2nd Workshop on Neuromorphic Vision ICCV, 2025
-- [4] R Verschae, I Bugueno-Cordova, "[Event-based Gesture and Facial Expression Recognition: A Comparative Analysis](https://ieeexplore.ieee.org/document/10298106/)", in IEEE Access, vol. 11, pp. 121269-121283, 2023, doi: 10.1109/ACCESS.2023.3328220. 
-- [5] I Bugueno-Cordova, R Verschae “Event-based Facial Expression Recognition", in LatinX in CV Workshop, 2023 International Conference on Computer Vision
+- [1] N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, P Negri, [Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach](https://arxiv.org/abs/2604.26285), 2026
+- [2] R Verschae, I Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, 2026, 132641. 
+- [3] N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, Pablo Negri, Maria Elena Buemi, "Event-based facial microexpression analysis using Spiking Neural Networks", ICPRS, 2025
+- [4] N Mastropasqua, D Acevedo, I Bugueno-Cordova, R Verschae, "[Exploring spatial-temporal dynamics in event-based facial microexpression analysis](https://arxiv.org/abs/2508.11988)", 2nd Workshop on Neuromorphic Vision ICCV, 2025
+- [5] R Verschae, I Bugueno-Cordova, "[Event-based Gesture and Facial Expression Recognition: A Comparative Analysis](https://ieeexplore.ieee.org/document/10298106/)", in IEEE Access, vol. 11, pp. 121269-121283, 2023, doi: 10.1109/ACCESS.2023.3328220. 
+- [6] I Bugueno-Cordova, R Verschae “Event-based Facial Expression Recognition", in LatinX in CV Workshop, 2023 International Conference on Computer Vision
+
+## Other Event-based Related Publications authored by the lectures
+- [7] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Játiva, David Zabala-Blanco, C Azurdia-Meza, "Design and Implementation of a Feedback-Aware MISO Event-Based Optical Camera Communication System", [IEEE Photonics Technology Letters](https://ieeexplore.ieee.org/abstract/document/11515206/)
+- [8] R Guamán-Rivera, J Delpiano, R Verschae, [Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/pii/S0925231225005715?casa_token=yeakzchWtgkAAAAA:QcohN8CfX4nDrgblp8IKAejxfmmQV4Vqo7Y41Df_RvyIGa74Wxi3XxUims2Oz4Wq8blyBOhWsw), Neurocomputing, 2026
+- [9] I Bugueno-Cordova, L Gava, R Verschae, N Navarro-Guerrero, [Multi-Modal Indoor Dataset for Event-based Monocular Depth Estimation by Mobile Robots](https://openreview.net/pdf?id=DH7DQCu1fC), IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots)
+- [10] I Bugueno-Cordova, M Campusano, R Guaman-Rivera, R Verschae, [A color event-based camera emulator for robot vision](https://portal.findresearcher.sdu.dk/files/269875484/robovis2024_color_event_camera_emulator_for_robot_vision.pdf), International Conference on Robotics, Computer Vision and Intelligent Systems, 2024
+
