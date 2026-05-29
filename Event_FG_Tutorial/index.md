@@ -65,14 +65,14 @@ This tutorial is intended both for researchers with no prior experience with eve
 ### Experience
 The instructors possess extensive experience in face and gesture detection and recognition problems using event-based cameras [1–5] (see the list of related publications at the end of this document). They also have a strong background in facial recognition, detection, and analysis using standard RGB cameras. Furthermore, the instructors have previously delivered tutorials and talks on this topic, including a tutorial titled “Introduction to Face and Gesture Recognition Using Event-Based Cameras” at the 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020). This updated tutorial builds upon the 2020 edition, incorporating the substantial body of work that has been published over the last few years.
 
-## The main instructors have given tutorial/talks in related computer vision topics in the following international events: 
+## The main instructors have presented tutorials/talks in related computer vision topics in the following international events: 
 - IEEE RAS ICRA 2025 LA@Chile HANDS-ON: “Gentle introduction to Event-based Robot Vision” given at the satellite event of the ICRA 2025 conference sponsored by IEEE RAS.
 - LACORO 2024 HANDS-ON: “Computer/Event vision and deep learning for dynamic environments” given at the 3rd Latin American Summer School on Robotics.
 - Invited spotlight speaker at the KHIPU AI conference, Santiago, Chile, March 2025. 
 - Tutorial on “Introduction to face and gesture recognition using event-based cameras" given at the 15th IEEE International Conference on Automatic Face and Gesture Recognition, November, 2020 (online).
 - Tutorial presentation on “Deep Photovoltaic Prediction” at the IEEE RAS Summer School on Deep Learning for Robot Vision, Santiago, Chile, December 2019.
 - Tutorial presentation on "Efficient object detection" at the IEEE RAS Summer School on Robot Vision, Santiago, Chile, December 2012 Tutorial presentation on "Multiclass object detection" at the IEEE LA-RAS Summer School, Santiago, Chile, December 2010
-- Tutorial presentation on "Face detection” at the IEEE LA-RAS Summer School, Santiago, Chile December 2006 (together with Javier Ruiz-del-Solar)
+- Tutorial presentation on "Face detection” at the IEEE LA-RAS Summer School, Santiago, Chile December 2006.
 
 ## FG + Event-based Related Publications authored by the lectures
 - [1] R Verschae, I Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, 2026, 132641. 
